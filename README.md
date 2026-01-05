@@ -3,6 +3,7 @@ This dataset supports evolutionary analyses of CHIA (acidic mammalian chitinase)
 
 Files and variables
 File: PAML_analysis.zip
+
 Description: Key files are organized into three folders: raw_data (Rodents.fas, tree.txt), paml controls(branch_model.ctl, site_model.ctl, branch_site_model.ctl,), paml outputs (codeml model output .txt). Core variables include dN (nonsynonymous substitution rate), dS (synonymous substitution rate), ω (dN/dS, selective pressure indicator), 2ΔlnL (LRT statistic), and BEB posterior probability (site-specific selection probability).
 
 Access information
